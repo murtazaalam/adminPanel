@@ -1,0 +1,39 @@
+.btn-custom{
+    margin: 0 6px;
+}
+.alert-content, .item-name{
+    color: red;
+}
+.msg{
+    margin: 0;
+    font-weight: 600;
+}
+.coupon-code{
+    text-transform: uppercase;
+}
+.bg-image{
+    background-image: url("https://i.ibb.co/Rcz1003/admin-b.jpg") !important;
+}
+.course-name{
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.course-name:hover{
+    color: rgb(8, 8, 177);
+}
+.menu-list{
+    margin: 0;
+    padding-left: 0px;
+    list-style-type: none;
+}
+.menu-list li{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 10px 0;
+    color: #000000;
+    cursor: pointer;
+}
+.menu-list li.active{
+    color: #897d7d;
+}
